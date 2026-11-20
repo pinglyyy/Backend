@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+
+# Django / SQLite
+*.log
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+
+# Environment
+.env
+
+# Frontend (excluded from backend repository)
+frontend/
+Pingly MVP – Project Brief.md
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/

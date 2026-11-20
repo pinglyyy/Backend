@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.git/
+.gitignore
+db.sqlite3
+.env
+frontend
+Pingly MVP – Project Brief.md
+.DS_Store
